@@ -348,6 +348,7 @@ DEPENDENCIES
   spring-watcher-listen
   sqlite3
   stackprof
+  turbolinks
   uglifier
   vcr
 
